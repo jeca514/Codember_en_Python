@@ -18,6 +18,7 @@
 
 
 ### Secretos que logre encontrar  
+#### Palabras magicas sin mas, sin submit ni nada
 #### mail 1  
 Hey! Te dejé el comando 'cal' para que lo pruebes. Tiene una fecha marcada... Recuerda usar el formato 'YYYY-MM-DD' al enviar el comando submit...  
 submit 2023-12-01  
