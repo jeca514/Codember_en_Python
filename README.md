@@ -16,7 +16,7 @@
 [Solución del reto 1](https://github.com/jeca514/Codember_en_Python/blob/main/Reto_01.ipynb)       
 [Solución del reto 2](https://github.com/jeca514/Codember_en_Python/blob/main/Reto_02.ipynb)     
 [Solución del reto 3](https://github.com/jeca514/Codember_en_Python/blob/main/Reto_03.ipynb)
-
+[Solución del reto 4](https://github.com/jeca514/Codember_en_Python/blob/main/Reto_04.ipynb)
 
 ### Secretos que logre encontrar  
 #### 1. Palabras magicas sin mas, sin submit ni nada
